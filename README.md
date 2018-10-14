@@ -13,10 +13,10 @@ presented in our papers:
   and Computer-Assisted Interventions (MICCAI), 2017.
 
 <p align="center">
-<img src="http://www.doc.ic.ac.uk/~sk1712/graph_construction.pdf" alt="overview" width="800"/>
+<img src="http://www.doc.ic.ac.uk/~sk1712/graph_construction.png" alt="overview" width="800"/>
 </p>
 <p align="center">
-<img src="http://www.doc.ic.ac.uk/~sk1712/overview_metric_learning.pdf" alt="overview" width="800"/>
+<img src="http://www.doc.ic.ac.uk/~sk1712/overview_metric_learning.png" alt="overview" width="800"/>
 </p>
 
 The code is released under the terms of the [MIT license](LICENSE.txt). Please
